@@ -16,8 +16,8 @@ Si##da Joanna	 50	2026-11-18 Pi##ka (wp³ata od Ma###ka Julia)
 
 ## Klasa B -> 3
 ```
-Ja##Ki £ukasz    50 2026-11-23
-Li##Ka Monika    50 2026-11-23
+Ja##ki £ukasz    50 2026-11-23
+Li##ka Monika    50 2026-11-23
 Wó##ik Agnieszka 50 2026-11-23 
 ```
 
