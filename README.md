@@ -4,7 +4,7 @@ Nazwisko|Imie|Kwota|Data| Notki np nazwisko po mê¿u
 
 ## Klasa A -> 6
 ```
-An##cz S³awiomir 50 2026-11-23
+An##cz S³awomir 50 2026-11-23
 Mi##a³ Marcin	 50	2026-11-21
 Mi##ta Piotr	 50	2026-11-18
 Po##wa Maciej	 50	2026-11-19
