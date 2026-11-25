@@ -14,15 +14,17 @@ St##ak Agnieszka 50 2026-11-24 Ma##ek
 
 ```
 
-## Klasa B -> 3
+## Klasa B -> 4
 ```
+Ci##ki Krystian  50 2026-11-25
 Ja##ki Łukasz    50 2026-11-23
 Li##ka Monika    50 2026-11-23
 Wó##ik Agnieszka 50 2026-11-23 Ku##io
 ```
 
-## Klasa C -> 6
+## Klasa C -> 7
 ```
+Fi##ut Piotr    50 2026-11-25
 Go##er Dorota   50 2026-11-18
 Ma##ka Anna     50 2026-11-23 My##ch
 Ma##ek Paweł    50 2026-11-24
